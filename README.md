@@ -1,4 +1,4 @@
-#Overview
+# Overview
 
 Using several computer vision techniques, we worked on video stabilization, denoising, frame interpolation and colorization. 
 
@@ -10,15 +10,15 @@ Usage
 Results
 
 
-#Project Structure
+# Project Structure
 
 - /Colorize: Contains the pretrained model used for colorization.
 - /.: Contains: - the sample video used for this project;
   - the scripts for the stabilization, denoising, frame interpolation and colorization;
   - the output video after our different modification;
-  - the report fot the class in which we do this project.
+  - the report for the class in which we do this project.
 
-#Installation
+# Installation
 
 In the beginning of each notebook, the list of required libraries is provided in the first cell where they are imported.
 
