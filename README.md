@@ -4,10 +4,10 @@ Using several computer vision techniques, we worked on video stabilization, deno
 
 # Table of Contents
 
-Project Structure
-Installation
-Usage
-Results
+- Project Structure
+- Installation
+- Usage
+- Results
 
 
 # Project Structure
