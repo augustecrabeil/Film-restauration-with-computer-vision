@@ -2,7 +2,7 @@
 
 Using several computer vision techniques, we worked on video stabilization, denoising, frame interpolation and colorization. 
 
-#Table of Contents
+# Table of Contents
 
 Project Structure
 Installation
